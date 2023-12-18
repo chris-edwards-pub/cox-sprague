@@ -1,0 +1,9 @@
+1. Add a sailor.
+2. Add a boat and point it to sailor.
+3. Add a series.
+4. Add boats to serries.
+5. Add a race.
+6. Score race by boat.
+7. Add DSQ & DNF to race.
+8. Calculate series.
+9. Print series results.

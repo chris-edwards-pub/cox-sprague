@@ -1,4 +1,4 @@
-#!/Users/chredwards/Dropbox/Code/python/cox-sprague/.venv/bin/python3
+#!/Users/chredwards/Dropbox/Code/python/cox-sprague/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
